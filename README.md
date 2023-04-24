@@ -2,6 +2,9 @@
 
 This simple web application is designed to estimate annual gas consumption and costs based on a one-month measurement. The app is focused on Prague, Czech Republic, and provides an estimation of gas consumption for households in the city.
 
+Hosted on
+https://gastimator.netlify.app/
+
 ## Overview
 
 The app takes the following inputs:
